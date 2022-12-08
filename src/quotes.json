@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "author": "Programista",
+    "text": "Testy regresyjne? Co to jest? Jeśli się kompiluje, jest dobrze, jeśli startuje, jest doskonale."
+  },
+  {
+    "id": 2,
+    "author": "Programista",
+    "text": "Testy jednostkowe? Produkcja jak życie - samo zweryfikuje."
+  }
+]

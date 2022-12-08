@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "quoteId": 1,
+    "author": "Gal anonim",
+    "text": "Nie zgadzam się...",
+    "date": "2022-12-08 14:34:23"
+  },
+  {
+    "id": 2,
+    "quoteId": 1,
+    "author": "Gal anonim vol.2",
+    "text": "A ja się zgadzam...",
+    "date": "2022-12-09 12:31:21"
+  }
+]
